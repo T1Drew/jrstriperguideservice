@@ -31,7 +31,7 @@ h1.title {
     letter-spacing: 2px;
 }
 
-.btn1 a {
+.btn1 {
     display: block;
     width: 180px;
     height: 35px;
@@ -56,9 +56,10 @@ h1.title {
 }
 
 
-/**.btn:hover {
-    background-color: #8f8c8c;
-}**/
+.btn1:hover {
+    background-color: #e3d2d1;
+    opacity: 50%;
+}
 
 
 /*navbar*/
@@ -77,6 +78,9 @@ h1.title {
     font-size: 32px;
     color: #2097e6;
 }
+.logo a img {
+    margin-top: 85px;
+}
 
 .navbar .navbar-items ul {
     display: flex;
@@ -91,7 +95,7 @@ h1.title {
 /*banner*/
 
 .banner {
-    background: url(banner.jpg);
+    background: url(ban5.jpg);
     background-repeat: no-repeat;
     background-position: center center;
     background-size: cover;
