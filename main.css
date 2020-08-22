@@ -88,9 +88,7 @@ button {
     font-size: 32px;
     color: #2097e6;
 }
-.logo a img {
-    margin-top: 85px;
-}
+
 
 .navbar .navbar-items ul {
     display: flex;
@@ -190,6 +188,7 @@ button {
     height: 80px;
     resize: none;
     border: 1px solid #ccc;
+    border-radius: 8px;
 }
 
 
