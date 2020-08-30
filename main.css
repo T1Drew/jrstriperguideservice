@@ -18,6 +18,10 @@ p {
     color: #8a8585;
 }
 
+hr {
+   border: 1px solid #4444 
+}
+
 .main-container {
     position: relative;
 }
@@ -218,6 +222,7 @@ button {
         text-align: center;
     }
     .logo {
+        margin-top: 60px;
         margin-bottom: 25px;
     }
     .navbar ul li {
